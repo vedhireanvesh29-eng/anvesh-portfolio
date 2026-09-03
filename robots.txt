@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vedhireanvesh29-eng.github.io/anvesh-portfolio/sitemap.xml
+
